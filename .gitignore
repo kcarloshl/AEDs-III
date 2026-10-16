@@ -1,0 +1,24 @@
+# Arquivos compactados
+*.zip
+*.rar
+*.7z
+
+# Arquivos compilados
+*.exe
+*.o
+
+# Arquivos de depuração e objetos do C++
+*.obj
+*.out
+*.pdb
+*.ilk
+
+# Documentos do Word
+*.docx
+*.doc
+
+# Arquivos temporários do Word
+~$*
+
+# Arquivos java
+*.java
